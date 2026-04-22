@@ -1,5 +1,4 @@
 # CS 340 Portfolio Reflection
-
 ## How do you write programs that are maintainable, readable, and adaptable?
 
 I focus on keeping my code organized and easy to understand by using clear variable names, comments, and separating logic into different parts. In this project, the CRUD Python module helped a lot because it kept all database operations in one place. This made the dashboard code cleaner and easier to manage. It also made the program more adaptable since I could reuse the same module in other projects that need database access.
